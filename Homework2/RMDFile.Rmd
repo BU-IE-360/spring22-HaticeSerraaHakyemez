@@ -187,7 +187,7 @@ cat(paste(" 2007 Q1:",saleData$predictions[29],"\n","2007 Q2:",saleData$predicti
 # 5. Appendices 
 
 
-[Data File](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/Homework2/DataFile.Rmd) 
+[Data File](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/Homework2/DataFile.csv) 
 
 
 [Rmd File](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/Homework2/RMDFile.Rmd) 
