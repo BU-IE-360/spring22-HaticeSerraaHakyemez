@@ -18,4 +18,4 @@ Data is gathered [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez
 
 [Here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/RMDFile.html) is the link to my analysis for Project.  
 R file can be accessed [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/RMDFile.Rmd).   
-Data is gathered [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/DataFile.csv).
+Data is gathered [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/DataFile).
