@@ -14,5 +14,8 @@ R file can be accessed [here](https://BU-IE-360.github.io/spring22-HaticeSerraHa
 Data is gathered [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/Homework2/DataFile.csv).
 
 
-### Homework 3
+### Project
 
+[Here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/RMDFile.html) is the link to my analysis for Homework 2.  
+R file can be accessed [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/RMDFile.Rmd).   
+Data is gathered [here](https://BU-IE-360.github.io/spring22-HaticeSerraHakyemez/IE360Project/DataFile.csv).
